@@ -10,4 +10,4 @@ ReactDOM.render(
     <LatestMovieReviewsContainer />
   </div>,
   document.getElementById('root')
-);
+)
